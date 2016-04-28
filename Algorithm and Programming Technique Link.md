@@ -126,5 +126,3 @@
 
 
 **Another list by some "Guru's":** http://www.quora.com/ACM-ICPC-1/What-are-some-algorithms-and-data-structures-which-should-definitely-be-included-in-ones-ACM-ICPC-team-notebook#
-
-* https://drive.google.com/file/d/1gGmkLmIo8vetRUEOuyDgTANVSZCZ3HgevTm9T8tsG-R5smhfsJKsCVZsMB3u7KJ1cKM4XdNW-ZqVXZOE/view

@@ -10,4 +10,4 @@
 **ডকুমেন্টস লিস্ট:**
 
  - [বাংলায় লেখা প্রোগ্রামিং এর ব্লগসমূহ] (https://github.com/hasancse91/docsOfProgrammingProblemInBengali/blob/master/Bangla%20programming%20blog%20list.md) 
- - [Algorithm List and Technique] (https://github.com/hasancse91/docsOfProgrammingProblemInBengali/blob/master/Algorithm%20and%20Programming%20Technique%20Link.md)
+ - [Algorithm List and Technique List] (https://github.com/hasancse91/docsOfProgrammingProblemInBengali/blob/master/Algorithm%20and%20Programming%20Technique%20Link.md)

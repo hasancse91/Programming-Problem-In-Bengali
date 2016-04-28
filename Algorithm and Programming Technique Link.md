@@ -1,3 +1,9 @@
+Algorithm List and Technique List
+--------------------------------------------------------------
+
+
+----------
+
 ﻿**Mathematics:**
 * Prime finding(sieve)
 * Prime factorization

@@ -16,6 +16,7 @@
 #### - [সংখ্যাতত্ত্ব (Number Theory)] (https://github.com/hasancse91/docsOfProgrammingProblemInBengali/blob/master/Number%20Theory.md)
 #### - [জ্যামিতির সকল রিসোর্স] (https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Geometry%20Resources.md)
 #### - [অ্যালগরিদম ও প্রোগ্রামিং এর বিভিন্ন টেকনিকের লিস্ট] (https://github.com/hasancse91/docsOfProgrammingProblemInBengali/blob/master/Algorithm%20and%20Programming%20Technique%20Link.md)
+#### - [অ্যালগরিদম ও প্রোগ্রামিং এর বিভিন্ন টেকনিক শেখার লিংক]  (https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Algorithm%2C%20Data%20Structure%20Programming%20Technique%20List%20with%20LINKS.md)
 #### - [অনলাইন জাজ ও প্রোগ্রামিং কনটেস্ট এরেঞ্জ করার সাইটসমূহ] (https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Online%20Judge%20For%20Problem%20Solving.md)
 #### - [গ্রুপ কর্তৃক আয়োজিত সকল কনটেস্টের লিংক] (https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/All%20Contest%20Links.md)
 #### - [প্রোগ্রামিং সংক্রান্ত বিভিন্ন জিজ্ঞাসা] (https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/FAQ%20(About%20Programming).md)

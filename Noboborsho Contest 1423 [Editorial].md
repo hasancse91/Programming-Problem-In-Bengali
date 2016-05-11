@@ -118,17 +118,10 @@ f(n) = 9 * ( 10 ^ ((n – 1)/2) ),  যদি n জোড় হয়। [ Integer Di
 Problem setter: [Sheikh Monir](https://www.facebook.com/SkMonirOFFICIAL) <br>
 Alternate Writer: [Khairul Basar Rofi](https://www.facebook.com/Omaanuushh)  <br>
 
-যেলেতু একটি যেন দুটি শেলেে মলযে চোচে কলে , সুতোাং n সাংখ্েক শেে যেলক যমাি
-
-েতভালব দুটি শেে ননব বাচন কো োয় যসটিই েলব n সাংখ্েক শেলে প্রলয়াজনীয় যমাি যেলনে
-
-সাংখ্ো । অে বাৎ nC2 এে মানই েলব উত্তে । nC2 যক simplify কেলে n * (n – 1) / 2 পাওয়া োয় ।
-
+যেহেতু একটি ট্রেন দুটি শহরের মধ্যে চলাচল করে , সুতরাং n সংখ্যক শহর থেকে মোট যতভাবে দুটি শহর নির্বাচন করা যায় সেটিই হবে n সংখ্যক শহরে প্রয়োজনীয় মোট ট্রেনের সংখ্যা ।  অর্থাৎ nC2 এর মানই হবে উত্তর ।  nC2 কে simplify করলে n * (n – 1) / 2 পাওয়া যায় । <br>
 nC2 = n! / { 2! * (n – 2)! }
-
-= { n * (n – 1) * (n - 2) * (n - 3) * . . . * (n – n + 1) } / { 2! * (n - 2) * (n - 3) *. . .* (n – n + 1) }
-
-= n * (n – 1) / 2
+= { n * (n – 1) * (n - 2) * (n - 3) * . . . * (n – n + 1) } / { 2! * (n - 2) * (n - 3) *. . .* (n – n + 1) }<br>
+= n * (n – 1) / 2<br>
 
 #### [I. সর্ষের মধ্যে ভুত](https://algo.codemarshal.org/contests/noboborsho-1423/problems/I)
 প্রব্লেম সেটারঃ [Ripon Kumar Roy](https://www.facebook.com/reponkumar.roy)<br> 

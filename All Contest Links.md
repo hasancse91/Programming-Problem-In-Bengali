@@ -77,4 +77,6 @@
  
 (৩১)             http://goo.gl/f24m4P              ----------                  আসছে...
 
-(৩২)            http://goo.gl/QPWLDl             ----------         https://goo.gl/klzioY 
+(৩২)           [নববর্ষ কনটেস্ট ১৪২৩] (http://goo.gl/QPWLDl)            ---------- [এডিটোরিয়াল] ( https://goo.gl/klzioY) 
+
+(৩৩) [Ramadan Programming Contest 2016] (http://goo.gl/Srq3jQ)

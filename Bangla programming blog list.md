@@ -1,9 +1,5 @@
-﻿[বাংলায় লেখা/বাংলাদেশী প্রোগামারদের এলগোরিদমের ব্লগসমূহের লিস্ট] (https://www.facebook.com/groups/bengaliprogramming/)
---------------------------------------------------------------
-
-
-----------
-
+### বাংলায় লেখা/বাংলাদেশী প্রোগামারদের এলগোরিদমের ব্লগসমূহের লিস্ট
+---
  - [ইকরাম মাহমুদ ফাহিমের ব্লগ](https://sites.google.com/site/smilitude/)
  - জোবায়ের হাসানের ব্লগ [ব্লগ-১](http://zobayer.blogspot.com/) [ব্লগ-২](http://zobayer2009.wordpress.com/)
  - [শাফায়েত আশরাফের ব্লগ](http://www.shafaetsplanet.com/planetcoding/)

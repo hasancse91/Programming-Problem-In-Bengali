@@ -29,7 +29,7 @@
 * Bucket Sort
 * Heap Sort
 
-** Searching:**
+**Searching:**
 * Linear Search
 * Binary Search
 * Ternary Search
@@ -99,7 +99,7 @@
 * Determinant of a matrix
 * RSA public key crypto System
 
-** Computational Geometry:**
+**Computational Geometry:**
 * Pick's Theorem
 * Convex hull
 * Line Intersection
@@ -114,7 +114,7 @@
 * Nim
 * Sprague-grundy Number
 
-** String:**
+**String:**
 * Naive String matching 
 * Rabin karp Algo
 * Finite Automata

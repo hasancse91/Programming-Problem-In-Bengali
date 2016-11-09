@@ -1,19 +1,5 @@
-﻿[Algorithm List and Technique List] (https://www.facebook.com/groups/bengaliprogramming/)
---------------------------------------------------------------
-
-
-----------
-
-﻿**Mathematics:**
-* Prime finding(sieve)
-* Prime factorization
-* GCD, LCM
-* Factorial
-* Fibonacci
-* Counting, Permutation, combination
-* Exponentiation
-* Modular Arithmetic
-* Euclid, Extended euclid
+[Algorithm List and Technique List] (https://www.facebook.com/groups/bengaliprogramming/)
+---
 
 **Data Structure:**
 * Stack
@@ -22,9 +8,12 @@
 * Linked list
 * Heap
 * Hash table
+* Map, HashMap
 * Disjoint Set, Union Find
+* Tree, Binary Tree
 * Binary Search Tree
-* Trie, Suffix Array
+* Trie
+* Suffix Array
 * Segmented Tree, Range minimum Query
 * Binary Indexed Tree(BIT)
 * Heavy light Decomposition
@@ -39,11 +28,12 @@
 * Radix Sort
 * Bucket Sort
 * Heap Sort
-* Searching:
+
+** Searching:**
 * Linear Search
 * Binary Search
 * Ternary Search
-* Map, HashMap
+
 
 **Dynamic Programming:**
 * Rod Cutting
@@ -53,7 +43,7 @@
 * Longest Increasing subsequence, Longest Decreasing Subsequence
 * Matrix Chain multiplication
 * Edit Distance
-* Knapsack problem, 0-1 Knapsack
+* 0-1 Knapsack
 * Bitmask DP
 * Traveling Salesman problem
 * Digit DP
@@ -61,6 +51,7 @@
 **Greedy Algorithm:**
 * Activity selection/Task scheduling problem
 * Huffman coding
+* Knapsack problem
 
 **Graph Theory:**
 * Graph Representation(matrix, list/vector)
@@ -82,7 +73,18 @@
 * Stable Marriage problem
 * Chinese Postman problem
 
-**Number Theory:**
+**Mathematics and Number Theory:**
+* GCD 
+* LCM
+* Euler Totient
+* Prime finding(sieve)
+* Prime factorization
+* Factorial
+* Fibonacci
+* Counting, Permutation, combination
+* Exponentiation
+* Modular Arithmetic
+* Euclid, Extended euclid
 * Josephus Problem
 * Farey Sequence
 * Euler's phi
@@ -96,10 +98,8 @@
 * Matrix Exponentiation
 * Determinant of a matrix
 * RSA public key crypto System
-* GCD 
-* LCM
-* Euler Totient
-* Computational Geometry:
+
+** Computational Geometry:**
 * Pick's Theorem
 * Convex hull
 * Line Intersection
@@ -113,7 +113,8 @@
 * Take Away game
 * Nim
 * Sprague-grundy Number
-* String:
+
+** String:**
 * Naive String matching 
 * Rabin karp Algo
 * Finite Automata

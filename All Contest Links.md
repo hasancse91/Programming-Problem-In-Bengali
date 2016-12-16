@@ -79,4 +79,6 @@
 
 (৩২)           [নববর্ষ কনটেস্ট ১৪২৩] (http://goo.gl/QPWLDl)            ---------- [এডিটোরিয়াল] ( https://goo.gl/klzioY) 
 
-(৩৩) [Ramadan Programming Contest 2016] (http://goo.gl/Srq3jQ)
+(৩৪) [Victory Day Programming Contest 2016] (https://vjudge.net/contest/144043)
+
+  

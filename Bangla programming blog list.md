@@ -11,7 +11,7 @@
  - [প্রোগ্রামিং কনসেপ্ট](https://sites.google.com/site/programinggconcept/)
  - [মুকিত চৌধুরীর ব্লগ](http://mukitmkbs.wordpress.com/) 
  - [আলাভোলার ব্লগ](http://ami-alavola.rhcloud.com) 
-- [হাসানের রাফখাতা](http://hellohasan.com/)
+ - [হাসানের রাফখাতা](http://hellohasan.com/)
  - [অনিন্দ্য সুন্দর পালের ব্লগ](http://binaryrongo.anindyaspaul.com/) 
  - [আহমাদ ফাইয়াজের ব্লগ](http://blog.faiyaz.info) 
  - [বিধানের ব্লগ](http://bidhanr.wordpress.com/)

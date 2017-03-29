@@ -1,4 +1,4 @@
-[Algorithm List and Technique List] (https://www.facebook.com/groups/bengaliprogramming/)
+[Algorithm List and Technique List](https://www.facebook.com/groups/bengaliprogramming/)
 ---
 
 **Data Structure:**

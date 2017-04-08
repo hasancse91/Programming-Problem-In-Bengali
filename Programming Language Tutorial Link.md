@@ -110,6 +110,10 @@ The C Programming by Dennis Ritchei https://goo.gl/OOA7A5
 পাইথন যারা শিখতে চান তারা ফাহিম ভাইয়ের এইবাংলা ব্লগটা দিয়ে পড়া শুরু করতে পারেন।
 ব্লগের লিঙ্ক - http://goo.gl/QLQaCc
 
+- [মাকসুদুর রহমান মাটিন এর পাইথনের বাংলা বই](https://python.maateen.me/)
+
+- [Automate the Boring Stuff with Python (One of the Best python books)](https://automatetheboringstuff.com/)
+
 **শিক্ষক.কম এর পাইথন ক্লাসঃ** https://goo.gl/p1OcdZ
 <br>
 **"ইচ্ছে কোড - অনলাইন স্কুল"** এ যারা প্রোগ্রামিং শুরু করতে চায় চাদের জন্য বাংলায় পাইথন কোর্সের লিঙ্কঃ

@@ -77,12 +77,12 @@
  
 (৩১)             http://goo.gl/f24m4P              ----------                  আসছে...
 
-(৩২)           [নববর্ষ কনটেস্ট ১৪২৩] (http://goo.gl/QPWLDl)            ---------- [এডিটোরিয়াল]( https://goo.gl/klzioY) 
+(৩২)           [নববর্ষ কনটেস্ট ১৪২৩](http://goo.gl/QPWLDl)            ---------- [এডিটোরিয়াল]( https://goo.gl/klzioY) 
 
 (৩৩) [Ramadan Programming Contest 2016](http://goo.gl/Srq3jQ)
 
 (৩৪) [Victory Day Programming Contest 2016](https://vjudge.net/contest/144043)
 
-(৩৫) [New Year Celebration Contest 2017] (https://algo.codemarshal.org/contests/new-year-2017) ----------- [Editorial](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Editorial%20of%20New%20Year%20Contest%202017.pdf)
+(৩৫) [New Year Celebration Contest 2017](https://algo.codemarshal.org/contests/new-year-2017) ----------- [Editorial](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Editorial%20of%20New%20Year%20Contest%202017.pdf)
 
 (৩৬) [ধর্মঘট কনটেস্ট](https://vjudge.net/contest/152306)

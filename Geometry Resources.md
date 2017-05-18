@@ -1,4 +1,4 @@
-﻿[জ্যামিতি রিসোর্স (সম্পূর্ণ)] (https://www.facebook.com/groups/bengaliprogramming/)
+﻿[জ্যামিতি রিসোর্স (সম্পূর্ণ)](https://www.facebook.com/groups/bengaliprogramming/)
 ---------------------------
 
 

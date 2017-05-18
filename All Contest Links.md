@@ -1,10 +1,10 @@
-﻿ [কনটেস্ট সমগ্র] (https://www.facebook.com/groups/bengaliprogramming/)
+﻿ [কনটেস্ট সমগ্র](https://www.facebook.com/groups/bengaliprogramming/)
 -------------
 
  
 আমাদের গ্রুপে হওয়া সব কনটেস্ট লিংক এখানে যুক্ত করা আছে। আপনারা চাইলে প্র্যাক্টিস করতে পারেন।
  
- প্রোগ্রামিং কনটেস্টের ব্যাপারে একদম নতুন হলে [অনলাইন জাজ সিরিজ] (http://hellohasan.com/category/online-programming-judge-series/) এর লেখাগুলো পড়তে পারেন। এখানে একদম শুরু থেকে ধাপে ধাপে সব কিছু দেখানো হয়েছে।
+ প্রোগ্রামিং কনটেস্টের ব্যাপারে একদম নতুন হলে [অনলাইন জাজ সিরিজ](http://hellohasan.com/category/online-programming-judge-series/) এর লেখাগুলো পড়তে পারেন। এখানে একদম শুরু থেকে ধাপে ধাপে সব কিছু দেখানো হয়েছে।
  
  
 কনটেস্ট নাম্বার_____কনটেস্ট লিংক______________এডিটোরিয়াল (সলিউশন লিংক)
@@ -77,12 +77,12 @@
  
 (৩১)             http://goo.gl/f24m4P              ----------                  আসছে...
 
-(৩২)           [নববর্ষ কনটেস্ট ১৪২৩] (http://goo.gl/QPWLDl)            ---------- [এডিটোরিয়াল] ( https://goo.gl/klzioY) 
+(৩২)           [নববর্ষ কনটেস্ট ১৪২৩] (http://goo.gl/QPWLDl)            ---------- [এডিটোরিয়াল]( https://goo.gl/klzioY) 
 
-(৩৩) [Ramadan Programming Contest 2016] (http://goo.gl/Srq3jQ)
+(৩৩) [Ramadan Programming Contest 2016](http://goo.gl/Srq3jQ)
 
-(৩৪) [Victory Day Programming Contest 2016] (https://vjudge.net/contest/144043)
+(৩৪) [Victory Day Programming Contest 2016](https://vjudge.net/contest/144043)
 
-(৩৫) [New Year Celebration Contest 2017] (https://algo.codemarshal.org/contests/new-year-2017) ----------- [Editorial] (https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Editorial%20of%20New%20Year%20Contest%202017.pdf)
+(৩৫) [New Year Celebration Contest 2017] (https://algo.codemarshal.org/contests/new-year-2017) ----------- [Editorial](https://github.com/hasancse91/Programming-Problem-In-Bengali/blob/master/Editorial%20of%20New%20Year%20Contest%202017.pdf)
 
-(৩৬) [ধর্মঘট কনটেস্ট] (https://vjudge.net/contest/152306)
+(৩৬) [ধর্মঘট কনটেস্ট](https://vjudge.net/contest/152306)

@@ -1,4 +1,4 @@
-﻿[Editorial: নববর্ষ কনটেস্ট ১৪২৩] (https://algo.codemarshal.org/contests/noboborsho-1423)
+﻿[Editorial: নববর্ষ কনটেস্ট ১৪২৩](https://algo.codemarshal.org/contests/noboborsho-1423)
 --------------------------------------------- 
 
 ------------------------------- 

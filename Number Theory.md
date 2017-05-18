@@ -1,4 +1,4 @@
-﻿[Number Theory ( সংখ্যাতত্ত্ব)] (https://www.facebook.com/groups/bengaliprogramming/)
+﻿[Number Theory ( সংখ্যাতত্ত্ব)](https://www.facebook.com/groups/bengaliprogramming/)
 -----------------------------
 
 ----------------------------

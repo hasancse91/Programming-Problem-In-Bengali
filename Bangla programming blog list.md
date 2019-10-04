@@ -30,3 +30,4 @@
  - [শাকিলের ব্লগ](http://shakilcompetitiveprogramming.blogspot.com/)
  - [মাহফুজের ব্লগ](http://www.mahfuzsust.info/)
  - [আসিফের হ-য-ব-র-ল](http://www.abuasifkhan.me/)
+ - [সুদীপের ব্লগ](https://returnzerooo.wordpress.com/)

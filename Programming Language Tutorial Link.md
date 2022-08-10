@@ -19,7 +19,7 @@
 * http://goo.gl/MJyPM5 ( সুবিন ভাই, রাফি ভাই এবং ওয়াসি ভাইয়ের তৈরি)
 এগুলো পড়লে আপনি C সম্পর্কে একটা প্রাথমিক ধারনা পাবেন। 
 <br>
-C সম্পর্কে বিস্তারিত জানতে হলে **C: The CompleteReference – Herbert Schildt** এর বইটি পড়তে পারেন। বইটি পাবেন এই লিঙ্কে- http://goo.gl/QOzDv0 
+ C সম্পর্কে বিস্তারিত জানতে হলে ** C : The Complete Reference – Herbert Schildt ** এর বইটি পড়তে পারেন। বইটি পাবেন এই লিঙ্কে-  (https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.868.5793&rep=rep1&type=pdf)
 <br>
 অথবা এই ব্লগটিও ফলো করতে পারেন http://goo.gl/8P9Os5 (cprogramming.com) 
 <br>

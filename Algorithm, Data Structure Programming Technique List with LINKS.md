@@ -206,9 +206,8 @@ http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=greedyAlg
     - http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=maxFlowRevisited
 * Cayley's Theorem
 * Articulation Point
-    - http://translate.googleusercontent.com/translate_c?act=url&depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=auto&tl=en&twu=1&u=http://e-maxx.ru/algo/cutpoints&usg=ALkJrhiSuFiBqY_EBgCC68vfrvW2o5vZnA
-Bridge
-    - http://translate.googleusercontent.com/translate_c?act=url&depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=auto&tl=en&twu=1&u=http://e-maxx.ru/algo/bridge_searching&usg=ALkJrhjv4XdY8Jh7vYLW0UbVsCIgscwhWg
+    -   http://www.shafaetsplanet.com/?p=2504#:~:text=%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%B6%E0%A6%A8
+    
 * Euler tour/path
     - http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/GraphAlgor/eulerTour.htm
     - http://zobayer.blogspot.com/2010/06/euler-tour.html
